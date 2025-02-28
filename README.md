@@ -1,0 +1,1 @@
+Ce projet est une application utilisant les sockets pour permettre la communication en temps réel entre un client et un serveur il permet d'établir une connexion bidirectionnelle où les données peuvent être envoyées et reçues instantanément.
